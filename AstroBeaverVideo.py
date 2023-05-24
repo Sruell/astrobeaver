@@ -13,6 +13,7 @@
     Pillow == 8.4.0
     PySimpleGUI == 4.55.1
 '''
+
 import os
 import sys
 import io
